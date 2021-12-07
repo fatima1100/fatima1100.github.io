@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<body style="background-color:rgb(126, 133, 145);">
+<title>Graffiti VS Vandalsim</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+</style>
+</head>
+<body>
+
+<h2>Graffiti VS. Vandalism</h2>
+<p>Graffiti has been around for a long time, since there were markings in caves. It started to be recognized during the holocaust and started to become a huge part of our culture during the 1960s. People used it as a form of expression,to claim there territory. But over the years it became Art, but even now there can be controversy in whether graffiti is consdiered Art or Vandalism.</p>
+<p>Peter Vallone, a New York city councillor, thinks that graffiti done with permission can be art, but if it is on someone else’s property it becomes a crime. </p>
+<p><strong>QUESTION:</strong>Do you think Graffiti is Art or Vandalism? </p>
+
+<header>
+  <h2>Vandalism</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">Home page</a></li>
+      <li><a href="#">Art Survey</a></li>
+      <li><a href="#">History</a></li>
+       <li><a href="#">Graffiti Art Over time</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>What Is The Differnce?</h1>
+    <p>Vandalism is willful damage or destruction of any property with no other purpose than damage or destruction of said property while graffiti is a form of vandalism involving painting text or images in public places.</p>
+    <p>Personally, i think that Graffiti or street Art should be conisdered Art. Art isnt based off of where you make it, its comes with the inteion for everyone to see. </p>
+  </article>
+</section>
+
+<footer>
+  <p>To conclude Art is a form of expression that Shouldn't be determined about where, or when its made. Its based off of the story and the feelin it gives the viwer.</p>
+</footer>
+<a href="https://final-project.w3spaces.com/new-file-2.html?bypass-cache=20896984">Home Page</a>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<body style="background-color:rgb(119, 128, 121);">
+<h2>The Boycott Of Jewish Buisness</h2>
+
+<p>The "Jewish boycott" was the first coordinated action undertaken by the Nazi regime against Germany’s Jews. It took place on Saturday, April 1, 1933. </p>
+
+<p>That day, Germans were not supposed to shop at stores and businesses that the Nazis identified as Jewish. They were also not supposed to visit the offices of Jewish doctors and lawyers.</p>
+
+<p>According to Nazi spokesmen, the boycott was an act of revenge against two groups:German Jews, and Foreigners who criticized the Nazi regime, including US and British journalists.</p>
+
+<p>Nazis painted graffiti on store display windows. This graffiti included the Star of David and the word "Jude" (German for "Jew").</p>
+
+<p>This was the first time that the new Nazi government officially and publically targeted Germany’s Jewish population as a group and systematically treated Jews as different from other Germans.</p>
+
+<p>This was one of the very first times that "tagging" became known in history. Nowadays when we talk about graffiti we think about an era where street gangs would tag there names to claim there territroy and had a bad connoataion on society.</p>
+<img src="https://encyclopedia.ushmm.org/images/large/d0c85149-131a-439f-a9f7-fe4e55affc56.jpg" alt="Flowers in Chania" width="395" height="300">
+
+<a href="https://final-project.w3spaces.com/new-file-2.html?bypass-cache=20896984">Home Page</a>
+
+</body>
+</html>
